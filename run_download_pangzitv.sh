@@ -1,4 +1,3 @@
-set -x
 link=$1
 
 cd src
